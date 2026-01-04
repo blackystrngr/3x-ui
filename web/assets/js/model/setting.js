@@ -30,7 +30,7 @@ class AllSetting {
         this.subJsonEnable = false;
         this.subTitle = "";
         this.subListen = "";
-        this.subPort = 2096;
+        this.subPort = 2211;
         this.subPath = "/sub/";
         this.subJsonPath = "/json/";
         this.subDomain = "";
