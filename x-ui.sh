@@ -827,7 +827,7 @@ install_firewall() {
         ufw allow http
         ufw allow https
         ufw allow 2053/tcp #webPort
-        ufw allow 2096/tcp #subport
+        ufw allow 2211/tcp #subport
 
         # Enable the firewall
         ufw --force enable
