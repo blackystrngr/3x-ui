@@ -54,7 +54,7 @@ var defaultValueMap = map[string]string{
 	"subJsonEnable":               "false",
 	"subTitle":                    "",
 	"subListen":                   "",
-	"subPort":                     "2096",
+	"subPort":                     "2211",
 	"subPath":                     "/sub/",
 	"subDomain":                   "",
 	"subCertFile":                 "",
